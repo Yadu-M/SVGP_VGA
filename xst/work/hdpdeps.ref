@@ -1,0 +1,9 @@
+V3 3
+FL /home/student1/ymadhu/Courses/7th-sem/COE-758/Design_Project_2/VGA_Driver.vhd 2023/11/29.17:22:03 O.87xd
+EN work/VGA_Driver 1701296530 \
+      FL /home/student1/ymadhu/Courses/7th-sem/COE-758/Design_Project_2/VGA_Driver.vhd \
+      PB ieee/std_logic_1164 1325952872 PB ieee/STD_LOGIC_UNSIGNED 1325952875 \
+      PB ieee/NUMERIC_STD 1325952877 PB std/TEXTIO 1325952871
+AR work/VGA_Driver/Behavioral 1701296531 \
+      FL /home/student1/ymadhu/Courses/7th-sem/COE-758/Design_Project_2/VGA_Driver.vhd \
+      EN work/VGA_Driver 1701296530
