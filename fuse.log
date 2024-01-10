@@ -1,0 +1,26 @@
+Running: /CMC/tools/xilinx/13.4/ISE_DS/ISE/bin/lin64/unwrapped/fuse -intstyle ise -incremental -o /home/student1/ymadhu/Courses/7th-sem/COE-758/Design_Project_2/test_bench_isim_beh.exe -prj /home/student1/ymadhu/Courses/7th-sem/COE-758/Design_Project_2/test_bench_beh.prj work.test_bench 
+ISim O.87xd (signature 0x8ddf5b5d)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Parsing VHDL file "/home/student1/ymadhu/Courses/7th-sem/COE-758/Design_Project_2/VGA_Driver.vhd" into library work
+Parsing VHDL file "/home/student1/ymadhu/Courses/7th-sem/COE-758/Design_Project_2/test_bench.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 123280 KB
+Fuse CPU Usage: 840 ms
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling package numeric_std
+Compiling package textio
+Compiling architecture behavioral of entity VGA_Driver [vga_driver_default]
+Compiling architecture behavior of entity test_bench
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 9 VHDL Units
+Built simulation executable /home/student1/ymadhu/Courses/7th-sem/COE-758/Design_Project_2/test_bench_isim_beh.exe
+Fuse Memory Usage: 1225924 KB
+Fuse CPU Usage: 1040 ms
+GCC CPU Usage: 460 ms

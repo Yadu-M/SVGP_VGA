@@ -1,0 +1,2 @@
+vhdl isim_temp "VGA_Driver.vhd"
+vhdl isim_temp "test_bench.vhd"

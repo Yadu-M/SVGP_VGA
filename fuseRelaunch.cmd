@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/student1/ymadhu/Courses/7th-sem/COE-758/Design_Project_2/test_bench_isim_beh.exe" -prj "/home/student1/ymadhu/Courses/7th-sem/COE-758/Design_Project_2/test_bench_beh.prj" "work.test_bench" 
