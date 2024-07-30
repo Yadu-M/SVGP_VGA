@@ -1,4 +1,4 @@
 # SVGP_VGA
-- A simple video game processor for VGA
-- Based on the Spartan 3E FPGA
-- Developed and Compiled in Xilinx ISE
+- Simple VGA Graphics Driver to draw simple shapes. 
+- Executed on Spartan 3E FPGA
+- Developed and Compiled with Xilinx ISE
