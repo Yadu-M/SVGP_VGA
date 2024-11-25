@@ -1,8 +1,0 @@
-INTSTYLE=ise
-INFILE=/home/student1/ymadhu/Courses/7th-sem/COE-758/Design_Project_2/VGA_Driver.ncd
-OUTFILE=/home/student1/ymadhu/Courses/7th-sem/COE-758/Design_Project_2/VGA_Driver.bit
-FAMILY=Spartan3E
-PART=xc3s500e-5fg320
-WORKINGDIR=/home/student1/ymadhu/Courses/7th-sem/COE-758/Design_Project_2
-LICENSE=ISE
-USER_INFO=175353682_174116511_210722484_808
